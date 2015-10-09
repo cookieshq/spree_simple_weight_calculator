@@ -1,3 +1,10 @@
+forked from freego/spree_simple_weight_calculator
+
+### Change log
+
+- use spree_core ~> 3.0.0
+- change spec test to pass
+
 Spree Simple Weight Calculator
 ==============================
 
